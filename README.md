@@ -5,3 +5,5 @@ Hello from *GitHub*!
 PS. it is ill-advised to use this function in GitHub for assignments. Just do it in VS.
 
 Hello again from Visual Studio.
+
+Hello again from GitHub
